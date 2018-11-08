@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="loginScreen">LOGIN</string>
+    <string name="loginID">Enter login ID</string>
+    <string name="password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign Up!</string>
+    <string name="wrongCredentials">Either login id or password is wrong. Please try again!</string>
+</resources>
